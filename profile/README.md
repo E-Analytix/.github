@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+E-ANALYTIX is a data science agency with a mission to help companies transform their data into valuable information with a mix of data science, analytics and AI. 
 <!--
 
 **Here are some ideas to get you started:**
